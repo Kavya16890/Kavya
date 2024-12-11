@@ -1,4 +1,4 @@
-# NewsApp
+# Newsify
 
 A dynamic and user-friendly news application built with ReactJS and Next.js, designed to deliver the latest news updates seamlessly using infinite scroll.
 
@@ -14,6 +14,6 @@ A dynamic and user-friendly news application built with ReactJS and Next.js, des
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/newsapp.git
+   git clone https://github.com/kavya16890/newsapp.git
    cd newsapp
 
